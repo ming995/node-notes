@@ -1,0 +1,11 @@
+# node
+node_modules
+
+# osx
+.DS_Store
+
+# vscode
+.vscode
+
+# npm-err-log
+npm-error.log
